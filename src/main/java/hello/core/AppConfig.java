@@ -11,7 +11,7 @@ import hello.core.order.OrderService;
 import hello.core.order.OrderServiceImpl;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-
+// 팩토리 메서드를 통해서 등록하는 방법임
 @Configuration
 public class AppConfig {
 
