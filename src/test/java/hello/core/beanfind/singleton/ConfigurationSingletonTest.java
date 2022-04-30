@@ -1,4 +1,4 @@
-package hello.core.singleton;
+package hello.core.beanfind.singleton;
 
 import hello.core.AppConfig;
 import hello.core.member.MemberRepository;
